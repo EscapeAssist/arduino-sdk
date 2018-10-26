@@ -1,0 +1,3 @@
+EscapeAssist	KEYWORD1
+game manager	KEYWORD2
+escape room		KEYWORD2
